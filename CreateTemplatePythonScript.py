@@ -1,6 +1,6 @@
 ###################################
 # Script:  tester.py
-# Author:  
+# Author:  CJuice on GitHub
 # Date:  06/11/2015
 # Purpose:  This script creates a brand new python script file with a user tailored header.
 # Inputs:  path_root; filename; author; purpose; inputs; outputs
